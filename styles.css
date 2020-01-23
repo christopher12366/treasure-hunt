@@ -1,0 +1,10 @@
+img{
+    width: 200px;
+}
+.container{
+   display:flex;
+    justify-content:center;
+}
+body{
+    background:url("https://cdna.artstation.com/p/assets/images/images/012/113/288/large/eric-_j-08213.jpg?1533108263");
+}
